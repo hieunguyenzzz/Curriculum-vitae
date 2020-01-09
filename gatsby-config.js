@@ -6,16 +6,10 @@
 
 module.exports = {
   siteMetadata: {
-    title: `Baran Cezayirli | Technologist`,
+    title: `Hieu Nguyen | Magento Developer`,
     author: `Baran Cezayirli`,
-    description: `With 10+ years of experience in various industries, I help tech
-              startups from idea phase to high volumes. I design and build
-              scalable solutions, implement internal processes that fit your
-              organization, build teams that produce results.`,
-    siteUrl: `https://barancezayirli.com/`,
-    social: {
-      twitter: `barancezayirli`,
-    },
+    description: `I am Magento develop since 2012 with both experience with M1 and M2. I strive to build great Magento website with custom features from basic to advance and can take an initial idea, tackle it from multiple angles and take it from basic stuff to something big. With 7 years of experience in just Magento development industry, I help e-commerce agency and store owner from idea phase to become the real stuff. I take design or idea and making out solutions, implement internal processes that fit your organization i.e coding review or doing technical supporting another team member , providing great result with great work.`,
+    siteUrl: `https://cv.hieunguyen.dev/`
   },
   plugins: [
     {
