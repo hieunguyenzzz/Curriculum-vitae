@@ -8,7 +8,8 @@ import {
   List,
   Education,
   Footer,
-  SEO
+  SEO,
+  Certification
 } from '../components';
 import resume from '../../data/profile';
 import '../main.css';
@@ -31,6 +32,7 @@ const Home = () => (
         <div className="lg:w-1/3 lg:pl-8 lg:border-l lg:border-neutral-300 ">
           {resume.skills && <Skills data={resume.skills} />}
           {resume.education && <Education data={resume.education} />}
+          {resume.certification && <Certification data={resume.certification} />}
           {resume.sidebar &&
             resume.sidebar.map(item => (
               <List key={`${item.title}-side`} data={item} />

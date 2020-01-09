@@ -1,9 +1,9 @@
 {
   "contact": {
-    "phone": "+380 63 251 76 44",
-    "email": "contact@barancezayirli.com",
-    "website": "https://barancezayirli.com",
-    "location": "Kiev, Ukraine"
+    "phone": "+778287898",
+    "email": "hieunguyenel@gmail.com",
+    "website": "https://hieunguyen.dev",
+    "location": "HCMC, Vietnam"
   },
   "skills": [
     {
@@ -11,48 +11,24 @@
       "type": "percent",
       "subskills": [
         {
-          "name": "Architecture",
-          "percent": 89
-        },
-        {
-          "name": "Mobile/Web App Development",
-          "percent": 95
-        },
-        {
-          "name": "Product Management",
-          "percent": 85
-        },
-        {
-          "name": "Project Management",
-          "percent": 92
-        },
-        {
-          "name": "Game Development",
-          "percent": 70
-        },
-        {
-          "name": "Blockchain",
-          "percent": 85
-        },
-        {
-          "name": "Dev Ops",
-          "percent": 81
-        },
-        {
-          "name": "Backend Development",
-          "percent": 93
-        },
-        {
-          "name": "Data Science",
-          "percent": 65
-        },
-        {
-          "name": "Artificial Intelligence",
-          "percent": 70
-        },
-        {
-          "name": "UX",
+          "name": "Magento Theme Development From Design",
           "percent": 80
+        },
+        {
+          "name": "Magento Module Development",
+          "percent": 80
+        },
+        {
+          "name": "Magento Optimization",
+          "percent": 60
+        },
+        {
+          "name": "Magento Upgrading",
+          "percent": 80
+        },
+        {
+          "name": "Magento PWA development",
+          "percent": 50
         }
       ]
     },
@@ -61,32 +37,24 @@
       "type": "percent",
       "subskills": [
         {
-          "name": "Javascript",
+          "name": "PHP",
           "percent": 96
         },
         {
-          "name": "Java",
-          "percent": 82
-        },
-        {
-          "name": "Python",
-          "percent": 85
-        },
-        {
-          "name": "C#",
-          "percent": 74
-        },
-        {
-          "name": "Solidity",
-          "percent": 85
-        },
-        {
-          "name": "Dart",
-          "percent": 75
-        },
-        {
-          "name": "Go",
+          "name": "Javascript",
           "percent": 60
+        },
+        {
+          "name": "Css",
+          "percent": 40
+        },
+        {
+          "name": "Sql",
+          "percent": 70
+        },
+        {
+          "name": "GraphQL",
+          "percent": 50
         }
       ]
     },
@@ -95,64 +63,10 @@
       "type": "tag",
       "subskills": [
         {
+          "name": "Zend"
+        },
+        {
           "name": "React"
-        },
-        {
-          "name": "Flutter"
-        },
-        {
-          "name": "React Native"
-        },
-        {
-          "name": "Vue"
-        },
-        {
-          "name": "Spring"
-        },
-        {
-          "name": "Angular"
-        },
-        {
-          "name": "Electron"
-        },
-        {
-          "name": "Node"
-        },
-        {
-          "name": "Flusk"
-        },
-        {
-          "name": "Express"
-        },
-        {
-          "name": "Koa"
-        },
-        {
-          "name": "Gatsby"
-        },
-        {
-          "name": "Apollo"
-        },
-        {
-          "name": "Django"
-        },
-        {
-          "name": "Loopback"
-        },
-        {
-          "name": "Next"
-        },
-        {
-          "name": "Amplify"
-        },
-        {
-          "name": "Pixi"
-        },
-        {
-          "name": "Phaser"
-        },
-        {
-          "name": "Feathers"
         }
       ]
     },
@@ -167,13 +81,16 @@
           "name": "Jira"
         },
         {
-          "name": "Unity"
+          "name": "Youtrack"
         },
         {
-          "name": "Godot"
+          "name": "Git"
         },
         {
-          "name": "Google Analytics"
+          "name": "Nginx"
+        },
+        {
+          "name": "Varnish"
         }
       ]
     },
@@ -182,13 +99,10 @@
       "type": "tag",
       "subskills": [
         {
-          "name": "Postgresql"
+          "name": "MySql"
         },
         {
-          "name": "Mongodb"
-        },
-        {
-          "name": "Parse"
+          "name": "Redis"
         },
         {
           "name": "Firebase"
@@ -199,110 +113,74 @@
       ]
     }
   ],
-  "summary": "Highly focused technologist with a multidisciplinary skill set honed over 10+ years in the IT industry. I strive to build great products and can take an initial idea, tackle it from multiple angles and take it from something great to something incredible. With 10+ years of experience in various industries, I help tech startups from idea phase to high volumes. I design and build scalable solutions, implement internal processes that fit your organization, build teams that produce results.",
+  "summary": "I am Magento develop since 2012 with both experience with M1 and M2. I strive to build great Magento website with custom features from basic to advance and can take an initial idea, tackle it from multiple angles and take it from basic stuff to something big. With 7 years of experience in just Magento development industry, I help e-commerce agency and store owner from idea phase to become the real stuff. I take design or idea and making out solutions, implement internal processes that fit your organization i.e coding review or doing technical supporting another team member , providing great result with great work.",
   "education": [
     {
-      "institution": "Middle East Technical University, Turkey",
-      "degree": "Geological Engineering",
-      "start": "2013",
-      "end": "2006"
-    },
+      "institution": "FPT University, Ha Noi, VietNam",
+      "degree": "Software Engineering",
+      "start": "2008",
+      "end": "2012"
+    }
+  ],
+  "certification": [
     {
-      "institution": "Gazi University, Turkey",
-      "degree": "Industrial Engineering",
-      "start": "2002",
-      "end": "2006"
+      "title": "Magento 2 associate developer",
+      "url": "#",
+      "date": "10 - 2019"
     }
   ],
   "experience": [
     {
-      "role": "Consultant",
-      "company": "Baran Cezayirli Consulting",
-      "description": "I consult startups to take their concept to the next level.",
-      "start": "08/2018",
+      "role": "Junior Developer",
+      "company": "SmartOSC",
+      "description": "Extension Department. I am working as maintainer for the company modules such as Xpos or Multi-vendor solution. I also involve into development phase of Magento projects of company clients",
+      "start": "06/2012",
+      "end": "11/2014"
+    },
+    {
+      "role": "Middle / Senior Developer",
+      "company": "Juno Web Design",
+      "description": "Juno is a great team locate on Nottingham of the UK where I have chance working with them as senior developer - remotely. I involveed into development of company clients most of them are Magento 1 both CE and EE version, I involved into early steps of some Magento 2 build from scratch, including investigate on giving solution",
+      "start": "01/2015",
+      "end": "12/2017"
+    },
+    {
+      "role": "Freelancer on Upwork",
+      "description": "I am doing freelancing on Upwork, doing jobs like Magento customization or Fixing bug on the site. I am open for basic request to complex build",
+      "start": "01/2017",
       "end": ""
-    },
-    {
-      "role": "Full Stack Tech Lead",
-      "company": "Malaeb Limited",
-      "description": "Malaeb is a group sports community and booking platform. I was managing all technical aspects of the product. I designed a new solution to improve the current platform, build and manage a new development team to migrate the new app. Implement better internal processes to increase productivity.",
-      "start": "11/2018",
-      "end": "09/2019"
-    },
-    {
-      "role": "Full Stack Tech Lead",
-      "company": "Solve Care",
-      "description": "Solve care is a healthcare blockchain platform. I was responsible for the client side development team and architecture of the platform. I was also active in product management team.",
-      "start": "04/2018",
-      "end": "11/2018"
-    },
-    {
-      "role": "Full Stack Lead Developer",
-      "company": "Applied Blockchain",
-      "description": "Applied Blockchain built blockchain applications for enterprises and startups. I built 4 full stack blockchain projects during my contract.",
-      "start": "10/2017",
-      "end": "04/2018"
-    },
-    {
-      "role": "Full Stack Lead Developer",
-      "company": "Dmapper",
-      "description": "Worked as a lead full-stack developer for Cortex which is B2B audit automation software for Deloitte. I was responsible for the architecture and development of the platform, managing development team.",
-      "start": "12/2016",
-      "end": "10/2017"
-    },
-    {
-      "role": "Front End Developer - UI/UX Designer",
-      "company": "GovRight",
-      "description": "GovRight provides citizens the opportunity to understand and contribute to government and legislation. I was responsible for the UX and development of admin interface for the platform.",
-      "start": "11/2015",
-      "end": "04/2016"
-    },
-    {
-      "role": "Full Stack Developer",
-      "company": "Freelance",
-      "description": "In the first years of my career, I had the privilege to work with many startups and building my own games and applications.",
-      "start": "04/2008",
-      "end": "01/2016"
     }
   ],
   "social": [
     {
-      "service": "youtube",
-      "url": "https://www.youtube.com/channel/UCczRc31u_YXNiSpYKxQU_Ug"
-    },
-    {
       "service": "linkedin",
-      "url": "https://www.linkedin.com/in/barancezayirli"
-    },
-    {
-      "service": "twitter",
-      "url": "https://twitter.com/barancezayirli"
-    },
-    {
-      "service": "angellist",
-      "url": "https://angel.co/baran-cezayirli"
+      "url": "https://www.linkedin.com/in/hieu-nguyen-trung-aa471458/"
     },
     {
       "service": "github",
-      "url": "https://github.com/barancezayirli"
-    },
-    {
-      "service": "facebook",
-      "url": "https://www.facebook.com/barancezayirli"
-    },
-    {
-      "service": "instagram",
-      "url": "https://www.instagram.com/barancezayirli"
+      "url": "https://github.com/hieunguyenzzz"
     }
   ],
-  "role": "Technologist",
+  "role": "Magento Developer",
   "projects": [
     {
-      "name": "Gatsby resume starter",
+      "name": "Magento payment method - paylands.com",
       "company": "Open source",
-      "description": "Gatsby resume tailwind is a free starter template with  Netlify CMS implementation. It is easy to customize the design with thanks to tailwind theming capabilities. It uses git as a backend and can be deployed to any static hosting service like Netlify, firebase hosting or Github pages.",
-      "link": "https://github.com/barancezayirli/gatsby-resume-tailwind"
+      "description": "Payland is the payment gateway highly use by south america. The module enable customer to pay through that payment gateway",
+      "link": "https://github.com/hieunguyenzzz/magento_payland"
+    },
+    {
+      "name": "Magento 2 development - Mobelaris",
+      "company": "Mobelaris",
+      "description": "Mobelaris is a furtunite brand on UK which sell their products to all euro. I handle all development for them both backend / frontend. Working on optimazation, making git flow for the team, doing coding view and help other team member with technical solution",
+      "link": "mobelaris.com"
+    },
+    {
+      "name": "Magento 2 PWA development ( In Progress ) ",
+      "company": "Personal project",
+      "description": "This is a testing project to using some of Magento newest feature including graphql and some new javascript Framework such as next.js and gatsby.js to build a super fast Magento store",
+      "link": "shopmax.hieunguyen.dev"
     }
   ],
-  "fullname": "Baran Cezayirli"
+  "fullname": "Nguyen Trung Hieu"
 }

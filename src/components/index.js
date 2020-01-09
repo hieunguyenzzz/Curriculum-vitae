@@ -7,3 +7,4 @@ export { default as List } from './list';
 export { default as Education } from './education';
 export { default as Footer } from './footer';
 export { default as SEO } from './seo';
+export { default as Certification} from './certification'
